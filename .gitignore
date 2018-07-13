@@ -1,5 +1,7 @@
-/.metadata
-/RemoteSystemsTempFiles
+bin
+.metadata
+.settings
+RemoteSystemsTempFiles
 
 # Text file
 *.txt
